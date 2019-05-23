@@ -1,4 +1,4 @@
-# KE-homeposition-numbers
+# KE-home-row-numbers
 karabiner elements modification to input numbers from home position
 
 # install
