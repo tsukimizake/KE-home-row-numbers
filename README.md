@@ -16,6 +16,5 @@ e.g.
 
 `left_shift+right_shift+a -> !`
 
-I recommend rebinding right_command to right_shift.
 # bug
 right_shift+; should be 0, but currently it's not working.
