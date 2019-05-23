@@ -12,6 +12,6 @@ You can input numbers with right_shift + home position keys.
 right_shift+a -> 1
 left_shift+right_shift+a -> !
 
-I recommend rebinding right_command key to right_shift.
+I recommend rebinding right_command to right_shift.
 # bug
 right_shift+; should be 0, but currently it's not working.
