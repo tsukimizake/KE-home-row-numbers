@@ -9,8 +9,12 @@ cf. https://pqrs.org/osx/karabiner/json.html
 
 # usage
 You can input numbers with right_shift + home position keys.
-right_shift+a -> 1
-left_shift+right_shift+a -> !
+
+e.g.
+
+`right_shift+a -> 1`
+
+`left_shift+right_shift+a -> !`
 
 I recommend rebinding right_command to right_shift.
 # bug
