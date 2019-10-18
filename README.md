@@ -15,6 +15,3 @@ e.g.
 `right_shift+a -> 1`
 
 `left_shift+right_shift+a -> !`
-
-# bug
-right_shift+; should be 0, but currently it's not working.
